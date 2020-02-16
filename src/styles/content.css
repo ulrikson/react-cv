@@ -1,0 +1,25 @@
+.content {
+  text-align: center;
+  max-width: 600px;
+  margin: 0 auto 5em auto;
+}
+
+h2 {
+  margin-top: 3em;
+  letter-spacing: 0.1em;
+  font-family: 'Roboto Mono', monospace;
+}
+
+h3 {
+  font-family: 'Roboto Mono', monospace;
+  letter-spacing: -0.05em;
+}
+
+.contentDiv > .fab, .contentDiv > .fas {
+  font-size: 1.3em;
+  margin: 0 0.1em;
+}
+
+.contentDiv {
+  margin-top: 3em;
+}

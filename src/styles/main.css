@@ -1,0 +1,29 @@
+body {
+  background-color: #e6ebf8;
+}
+
+.container {
+  width: 80%;
+  margin: auto;
+}
+
+hr {
+  text-align: left;
+  width: 3em;
+}
+
+p {
+  font-family: 'Roboto', sans-serif;
+}
+
+
+a, a:visited {
+  color: black;
+}
+
+/* Mobile */
+@media only screen and (max-width: 630px) {
+  .container {
+    width: 90%;
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "projects": [
+    {
+      "title": "Siteactivityindex.com",
+      "icon1": "fab fa-react",
+      "icon2": "fab fa-python",
+      "paragraph": "Co-founder of Site Activity Index (SAI). A service measuring how much websites change over time. ",
+      "href": "https://www.siteactivityindex.com"
+    },
+    {
+      "title": "Weld.io",
+      "icon1": "fab fa-react",
+      "icon2": "fas fa-ad",
+      "paragraph": "Front-end development and marketing at Weld. Weld is a no-code tool for marketers. ",
+      "href": "https://www.weld.io"
+    },
+    {
+      "title": "EMStrategy",
+      "icon1": "fab fa-react",
+      "paragraph": "Built and designed the website of this Swedish consultancy firm.",
+      "href": "https://www.emstrategy.now.sh"
+    },
+    {
+      "title": "JAU Consultants",
+      "icon1": "fab fa-react",
+      "icon2": "fas fa-calculator",
+      "paragraph": "Built and designed the website of this Swedish accounting firm. Also, I used to work here as a financial assistant.",
+      "href": "https://www.jauconsultants.se"
+    },
+    {
+      "title": "Misc. Python",
+      "icon1": "fab fa-python",
+      "paragraph": "I've built a lot of Python applications. Some examples: Twitter bots, back-end structures in Flask & Django, Machine Learning models, web scrapers. Some of them are available at my Github (link below). ",
+      "href": "https://github.com/ulrikson?tab=repositories"
+    },
+    {
+      "title": "React Native",
+      "icon1": "fab fa-react",
+      "icon2": "fas fa-mobile",
+      "paragraph": "Coming soon. Started learning React Native to create Android and iOS apps."
+    }
+  ],
+  "education": [
+    {
+      "title": "BSc Economics @ Stockholm School of Economics",
+      "paragraph": "Completed a 3 year BSc in Economics. I've received 7 different awards for academic excellence. See my LinkedIn for more."
+    },
+    {
+      "title": "MSc Statistics @ Stockholm University",
+      "paragraph": "Currently ongoing. I'm on a pursuit of getting a degree in Statistics as well. Projected to be finished 2023."
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+.headline {
+  width: 80%;
+}
+
+h1 {
+  font-family: 'Roboto Mono', monospace;
+  font-size: 1.8em;
+  margin-top: 15em;
+  margin-bottom: 4em;
+}
+
+/* Mobile */
+@media only screen and (max-width: 630px) {
+  .headline {
+    width: 95%;
+  }
+
+  h1 {
+    font-size: 1.5em;
+    margin-top: 12em;
+  }
+}
+
+/* Typewriter effect */
+.typewriter {
+  border-right: .15em solid orange; /* The typwriter cursor */
+  animation:
+    blink-caret 1.5s step-end infinite;
+}
+
+@keyframes blink-caret {
+  from, to { border-color: transparent }
+  50% { border-color: orange; }
+}

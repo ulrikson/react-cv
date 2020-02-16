@@ -1,0 +1,20 @@
+.socialDiv {
+  height: 3em;
+  margin-top: 1em;
+  display: flex;
+  justify-content: end;
+}
+
+.socialDiv > a > .fas,
+.socialDiv > a > .fab {
+  font-size: 1.8em;
+  margin: 0 .5em;
+}
+
+/* Mobile */
+@media only screen and (max-width: 630px) {
+  .socialDiv > a > .fas,
+  .socialDiv > a > .fab {
+    font-size: 1.4em;
+  }
+}
