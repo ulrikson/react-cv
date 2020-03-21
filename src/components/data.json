@@ -1,6 +1,12 @@
 {
   "projects": [
     {
+      "title": "Leadpilot",
+      "icon1": "fab fa-vuejs",
+      "paragraph": "Front-end developer. Working in VueJS.",
+      "href": "https://leadpilot.ai"
+    },
+    {
       "title": "Siteactivityindex.com",
       "icon1": "fab fa-react",
       "icon2": "fab fa-python",
